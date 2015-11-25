@@ -2,3 +2,5 @@
 
 - lucas renan
 - gabriel nucci
+- bruno cobello
+
