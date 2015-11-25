@@ -4,4 +4,3 @@
 - gabriel nucci
 - bruno cobello
 - lucas dutra
-
